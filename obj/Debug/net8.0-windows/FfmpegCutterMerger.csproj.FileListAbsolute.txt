@@ -1,0 +1,14 @@
+C:\Users\goran\Desktop\Programs\FfmpegCutterMerger\bin\Debug\net8.0-windows\FfmpegCutterMerger.exe
+C:\Users\goran\Desktop\Programs\FfmpegCutterMerger\bin\Debug\net8.0-windows\FfmpegCutterMerger.deps.json
+C:\Users\goran\Desktop\Programs\FfmpegCutterMerger\bin\Debug\net8.0-windows\FfmpegCutterMerger.runtimeconfig.json
+C:\Users\goran\Desktop\Programs\FfmpegCutterMerger\bin\Debug\net8.0-windows\FfmpegCutterMerger.dll
+C:\Users\goran\Desktop\Programs\FfmpegCutterMerger\bin\Debug\net8.0-windows\FfmpegCutterMerger.pdb
+C:\Users\goran\Desktop\Programs\FfmpegCutterMerger\obj\Debug\net8.0-windows\FfmpegCutterMerger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goran\Desktop\Programs\FfmpegCutterMerger\obj\Debug\net8.0-windows\FfmpegCutterMerger.AssemblyInfoInputs.cache
+C:\Users\goran\Desktop\Programs\FfmpegCutterMerger\obj\Debug\net8.0-windows\FfmpegCutterMerger.AssemblyInfo.cs
+C:\Users\goran\Desktop\Programs\FfmpegCutterMerger\obj\Debug\net8.0-windows\FfmpegCutterMerger.csproj.CoreCompileInputs.cache
+C:\Users\goran\Desktop\Programs\FfmpegCutterMerger\obj\Debug\net8.0-windows\FfmpegCutterMerger.dll
+C:\Users\goran\Desktop\Programs\FfmpegCutterMerger\obj\Debug\net8.0-windows\refint\FfmpegCutterMerger.dll
+C:\Users\goran\Desktop\Programs\FfmpegCutterMerger\obj\Debug\net8.0-windows\FfmpegCutterMerger.pdb
+C:\Users\goran\Desktop\Programs\FfmpegCutterMerger\obj\Debug\net8.0-windows\FfmpegCutterMerger.genruntimeconfig.cache
+C:\Users\goran\Desktop\Programs\FfmpegCutterMerger\obj\Debug\net8.0-windows\ref\FfmpegCutterMerger.dll
